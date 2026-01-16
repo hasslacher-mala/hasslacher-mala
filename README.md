@@ -1,8 +1,10 @@
 # 💫 Laurin Maier
 
+
 This GitHub account is used exclusively for **work-related activities** at **Hasslacher Norica Timber**.
 
 It contains repositories created or maintained as part of my role, including internal tools, shared libraries, prototypes, and documentation.
+
 ---
 
 ## Role & Responsibilities
@@ -67,6 +69,6 @@ For questions related to specific repositories, please refer to:
 ## Personal
 
 My Personal stuff can be found at:
-- [![Github](https://github.com/maier-laurin) 
+- [Github](https://github.com/maier-laurin) 
 
 
