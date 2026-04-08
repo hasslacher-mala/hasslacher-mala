@@ -21,21 +21,22 @@ It contains repositories created or maintained as part of my role, including int
 
 ## Technical Scope
 
-**Languages & Technologies**
-- <Language 1>, <Language 2>
-- <Frameworks, platforms, or systems>
-
-**Tooling & Practices**
-- Languages:
+- **Languages:**
   - Julia
   - R
   - Python
   - Transact-SQL 
-- Programms
+- **Programms:**
   - Visual Studio Code
   - SQL Server Managment Studio
   - Power-BI  
 
+---
+
+## Education
+- Ing. für Holz, Wirtschaft und Sägetechnik: HTL-Kuchl
+- Bachelor Technische Mathematik: Universität Klagenfurt
+- Master Mathematics (ongoing): Univerisity Klagenfurt
 ---
 
 ## Repository Notes
